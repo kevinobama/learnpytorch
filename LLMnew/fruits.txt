@@ -1,0 +1,12 @@
+data = """
+Apple is red and sweet.
+Banana is yellow and soft.
+Orange is citrus and juicy.
+Grape is small and purple.
+Strawberry is red with seeds.
+Pineapple is tropical and spiky.
+Mango is sweet and golden.
+Watermelon is large and refreshing.
+Blueberry is tiny and healthy.
+Cherry is round and delicious.
+"""
