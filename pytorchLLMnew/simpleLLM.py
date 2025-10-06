@@ -91,5 +91,5 @@ def generate_text(model, seed_text, length=100, temperature=1.0):
     return ''.join([idx_to_char[i] for i in generated])
 
 # Try generating
-print(generate_text(model, "Apple", length=150, temperature=0.8))
-print(generate_text(model, "Strawberry", length=150, temperature=0.8))
+print(generate_text(model, "Apple is", length=120))
+print(generate_text(model, "Banana is", length=120))
