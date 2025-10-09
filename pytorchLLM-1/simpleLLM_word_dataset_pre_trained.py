@@ -248,7 +248,7 @@ print("\n" + "=" * 50)
 print("TESTING GENERATION")
 print("=" * 50)
 
-test_prompts = ["apple", "the fruit", "I like", "banana is"]
+test_prompts = ["apple", "Bread", "Star", "Cloud"]
 
 for prompt in test_prompts:
     generated = generate_text(model, prompt, length=10, temperature=0.7, top_k=20)
